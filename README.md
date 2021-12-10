@@ -61,7 +61,8 @@ This time It will take on a presentation wiki flavor where each topic can be tho
   
 ### About Marc
 
-Marc is a [T shaped person][4], and people who have worked with him have have shared that he is a very wide ---------T---------. He is a very senior engineer; He leads projects, coordinates work, and take on difficult technical tasks. He doesn't need to be told what to do; He dives into an unknown set of problems and brings order to chaos and is self-motivated to do so.
+Marc is a [T shaped person][4], and people who have worked with him have have shared that he is a very wide  
+ ---T---. He is a very senior engineer; He leads projects, coordinates work, and take on difficult technical tasks. He doesn't need to be told what to do; He dives into an unknown set of problems and brings order to chaos and is self-motivated to do so.
 
 Marc sees problems that other people don’t, and *that’s* where the value comes in. Without engineers who can do that repeatedly, the company has fewer winning products, and way more problems. Marc can rally other engineers to support and unblock projects with or *without* the support of management.
 
