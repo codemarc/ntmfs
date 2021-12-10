@@ -36,7 +36,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 ---
 
 <style scoped>  
-  h3 {font-size:24pt}
+  h3 {font-size:16pt}
   ul {font-size:12pt}
 </STYLE>
 
@@ -47,7 +47,8 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 NTMFS is esentially a blog. As once explained by the architect in the [matrix reloaded][2] this is not the first version of NTMFS.
 
 This time It will take on a presentation wiki flavor where each topic can be thought of as a presentable subject. As I document my discoveries and share them in prose, I expect to create a [learning in public][3] environment. I am very exciting ( ͡° ͜ʖ ͡°) to get started.  
-### Tools
+
+### Tools used with NTMFS
 
 - [Marp][t1] - Markdown Presentation Ecosystem  
 - [Mermaid][t4]- Generation of diagrams and flowcharts from text in a similar manner as markdown.
@@ -61,8 +62,7 @@ This time It will take on a presentation wiki flavor where each topic can be tho
   
 ### About Marc
 
-Marc is a [T shaped person][4], and people who have worked with him have have shared that he is a very wide  
- ---T---. He is a very senior engineer; He leads projects, coordinates work, and take on difficult technical tasks. He doesn't need to be told what to do; He dives into an unknown set of problems and brings order to chaos and is self-motivated to do so.
+Marc is a [T shaped person][4], a very wide ---T---, though some who have worked with him describe it as TT or TTT or TTTT. He is a very senior engineer.  He leads projects, coordinates work, and take on difficult technical tasks. He doesn't need to be told what to do; He dives into an unknown set of problems and brings order to chaos and is self-motivated to do so.
 
 Marc sees problems that other people don’t, and *that’s* where the value comes in. Without engineers who can do that repeatedly, the company has fewer winning products, and way more problems. Marc can rally other engineers to support and unblock projects with or *without* the support of management.
 
@@ -72,7 +72,7 @@ If Marc's manager goes on a three month vacation, he can pick up that role witho
 
 Because of the reputation that Marc builds within an organization, people want to engage. He leads by example and when he leaves, there is a morale hit, a wanting for more of the environment where team member learn and grow. Losing him is a cost.
 
-So, summing it up.
+So, summing it up, Marc is a master composer, a conductor who can orchastrate the symphony, and sometimes, just another player in the band.
 
 You’ve got someone who doesn’t require any management, who seeks out and solves problems you didn’t know you had. A force multiplier that motivates other folks to join in and unblock the work. Someone who is humble and empathic. Marc can pinch hit for every other role if someone’s gone. Marc has been lucky enough to both get the skills that he has, and to be in jobs that let him build and use those skills.
 
@@ -82,6 +82,15 @@ codemarc@gmail.com | marc@codemarc.net | 516-313-4826 | 561-231-0111
 ---
 
 # Topics
+
+CaaS
+K8s
+K3s
+f5
+Analytics
+Observability
+
+
 
 <!-- REFERENCES -->
 
