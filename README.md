@@ -57,24 +57,21 @@ This time It will take on a presentation wiki flavor where each topic can be tho
 ---
 
 <style scoped>
-  p {font-size:11pt}
+  p {font-size:12pt}
 </style>
   
 ### About Marc
 
 Marc is a [T shaped person][4], a very wide ---T---, though some who have worked with him describe it as TT or TTT or TTTT. He is a very senior engineer.  He leads projects, coordinates work, and take on difficult technical tasks. He doesn't need to be told what to do; He dives into an unknown set of problems and brings order to chaos and is self-motivated to do so.
 
-Marc sees problems that other people don’t, and *that’s* where the value comes in. Without engineers who can do that repeatedly, the company has fewer winning products, and way more problems. Marc can rally other engineers to support and unblock projects with or *without* the support of management.
+Marc sees problems that other people don't, and that's where the **value** comes in. Without
+engineers who can do that repeatedly, the company has fewer winning products, and way more problems. Marc can rally other engineers to support and unblock projects *with or without* the support of management.
 
-Marc is able to lead from above, below, and from left or right to accomplish whatever needs to be done. He has been known to work across many teams and with entirely different parts of the company. And as part of that interaction, he shows great empathy for others and some humility about where they’re at.
+Marc is able to lead from above, below, and from left or right to accomplish whatever needs to be done. He has been known to work across many teams and with entirely different parts of the company. And as part of that interaction, he shows great empathy for others and some humility about where they're at. If Marc's manager goes on a three month vacation, he can pick up that role without difficulty and lead the team until the manager's back (or replaced).
 
-If Marc's manager goes on a three month vacation, he can pick up that role without difficulty and lead the team until the manager’s back (or replaced).
+So, to sum it up; Marc is a master composer, a conductor who can orchestrated the symphony, and sometimes, just another player in the band.
 
-Because of the reputation that Marc builds within an organization, people want to engage. He leads by example and when he leaves, there is a morale hit, a wanting for more of the environment where team member learn and grow. Losing him is a cost.
-
-So, summing it up, Marc is a master composer, a conductor who can orchastrate the symphony, and sometimes, just another player in the band.
-
-You’ve got someone who doesn’t require any management, who seeks out and solves problems you didn’t know you had. A force multiplier that motivates other folks to join in and unblock the work. Someone who is humble and empathic. Marc can pinch hit for every other role if someone’s gone. Marc has been lucky enough to both get the skills that he has, and to be in jobs that let him build and use those skills.
+You've got someone who doesn't require any management, who seeks out and solves problems you didn't know you had. A force multiplier that motivates other folks to join in and unblock the work. Someone who is humble and empathic. Marc can pinch hit for every other role if someone's gone. Marc has been lucky enough to both get the skills that he has, and to be in jobs that let him build and use those skills.
 
 If your company is looking for Marc. I am sure he can't wait to work with you.  
 codemarc@gmail.com | marc@codemarc.net | 516-313-4826 | 561-231-0111
@@ -89,8 +86,6 @@ K3s
 f5
 Analytics
 Observability
-
-
 
 <!-- REFERENCES -->
 
