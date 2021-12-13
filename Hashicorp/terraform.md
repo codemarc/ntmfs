@@ -51,12 +51,12 @@ Terraform is the tool that aggrigates IaC in front of a public cloud native solu
 
 ---
 <style scoped>
-code {
-  font-size: 13pt;
-  color: black;
-  background:#ffffff;
-  border: 1px solid black;
-}
+  code {
+    font-size: 13pt;
+    color: black;
+    background:#ffffff;
+    border: 1px solid black;
+  }  
 </style>
 
 # Get Started - AWS
@@ -84,6 +84,41 @@ Main commands:
 
 ```
 
+---
+<style scoped>
+  code {
+    font-size: 13pt;
+    color: black;
+    background:#ffffff;
+    border: 1px solid black;
+  }  
+</style>
+
+# Get Started - Build/Change/Destroy
+
+Visit the [ec2 console][s4r1]
+
+```bash
+# command that were used in build
+aws configure
+terraform init
+terraform fmt
+terraform validate
+terraform apply
+terraform show
+terraform state list
+```
+
+```bash
+# command that were used in Change
+terraform apply
+```
+
+```bash
+# command that were used in Destroy
+terraform destroy
+```
+
 <!-- REFERENCES -->
 
 [s1r1]: https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
@@ -95,4 +130,5 @@ Main commands:
 
 [s1r3]:https://cloud.google.com/deployment-manager/docs
 
-\\
+[s4r1]:https://console.aws.amazon.com/ec2/v2/home?region=us-west-2#Instances:sort=instanceId
+
