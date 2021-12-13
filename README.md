@@ -77,15 +77,25 @@ If your company is looking for Marc. I am sure he can't wait to work with you.
 codemarc@gmail.com | marc@codemarc.net | 516-313-4826 | 561-231-0111
 
 ---
+<style scoped>  
+  h2 {font-size:20pt;margin-top:12px;}
+  ul {font-size:12pt}
+</STYLE>
 
 # Topics
 
-CaaS
-K8s
-K3s
-f5
-Analytics
-Observability
+## Wip
+
+[Terraform](./Hashicorp/terraform.md)
+
+## Proposed
+
+- CaaS
+- K8s
+- K3s
+- f5
+- Analytics
+- Observability
 
 <!-- REFERENCES -->
 
