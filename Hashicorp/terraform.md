@@ -99,7 +99,7 @@ Main commands:
 Visit the [ec2 console][s4r1]
 
 ```bash
-# command that were used in build
+# commands that were used in build
 aws configure
 terraform init
 terraform fmt
@@ -107,17 +107,21 @@ terraform validate
 terraform apply
 terraform show
 terraform state list
-```
 
-```bash
-# command that were used in Change
+# commands that were used in Change
 terraform apply
+
+# commands that were used in Destroy
+terraform destroy
+
+# commands that were used in Destroy
+terraform apply -var "instance_name=YetAnotherName"
+ 
 ```
 
-```bash
-# command that were used in Destroy
-terraform destroy
-```
+---
+
+ [ ] 1st set of tuts complete
 
 <!-- REFERENCES -->
 
