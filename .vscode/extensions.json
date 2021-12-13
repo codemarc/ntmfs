@@ -5,6 +5,7 @@
   "recommendations": [
     "marp-team.marp-vscode",
     "hediet.vscode-drawio",
-    "nopeslide.vscode-drawio-plugin-mermaid"
+    "nopeslide.vscode-drawio-plugin-mermaid",
+    "HashiCorp.terraform"
   ]
 }
