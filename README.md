@@ -92,8 +92,8 @@ codemarc@gmail.com | marc@codemarc.net | 516-313-4826 | 561-231-0111
 
 ## Wip
 
-[Terraform](./Hashicorp/terraform.md)
-
+[Terraform](Hashicorp/terraform.md)
+[React](FrontEndFrameworks/React)
 ## Proposed
 
 - CaaS
