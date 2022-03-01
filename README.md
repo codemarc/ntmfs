@@ -13,8 +13,8 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
   h1 {font-size:26pt;}
   h2 {font-size:22pt;}  
   h3 {font-size:20pt;}
-  h4 {font-size:18pt;}
-  p {font-size:14pt;}
+  h4 {font-size:16pt;}
+  p,li {font-size:14pt;}
   footer {font-size:14pt;text-indent:48px}
 </style>
 
@@ -25,11 +25,13 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 NTMFS is esentially a blog. As once explained by the architect in the [matrix reloaded][2] this is not the first version of NTMFS.  
 
-<br/>
-
 #### [Robot Monkey Butler][1]
 
 This time It will take on a presentation wiki flavor where each topic can be thought of as a presentable subject. As I document my discoveries and share them in prose, I expect to create a [learning in public][swyx] environment. I am very exciting ( ͡° ͜ʖ ͡°) to get started.
+
+<br/><br/><br/><br/><br/><br/>
+
+Checkout the <a href="#tools">Tools we use</a>
 
 <footer>More on me <a href="#about">about marc</a></footer>
 
@@ -39,12 +41,14 @@ This time It will take on a presentation wiki flavor where each topic can be tho
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-|     |     | 01  | 02  | 03  | 04  | 05  |
+|     |     | [01][x01]  | 02  | 03  | 04  | 05  |
 | 06  | 07  | 08  | 09  | 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
 | 27  | 28  | 29  | 30  | 31  |     |     |
 
+<!-- REFERENCES -->
+[x01]: 2022/0301.md
 
 ---
 
@@ -74,8 +78,21 @@ Kind regards, <font style="font-family:Brush Script MT;font-size:32pt;margin-lef
 
 marc@codemarc.net | 516-313-4826
 
+---
 
-<!-- REFERENCES -->
+### Tools used with NTMFS <a id="tools">
+
+- [Marp][t1] - Markdown Presentation Ecosystem
+- [Mermaid][t4]- Generation of diagrams and flowcharts from text in a similar manner as markdown.
+- [Visual Studio Code][t0] with plugins: [Marp for VS Code][t2], [Mermaid+Draw.io][t3]
+
+<!-- References -->
+[t0]: https://code.visualstudio.com/
+[t1]: https://marp.app/
+[t2]: https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode,
+[t3]: https://marketplace.visualstudio.com/items?itemName=nopeslide.vscode-drawio-plugin-mermaid
+[t4]: https://unpkg.com/mermaid@0.5.2/exdoc/index.html
+
 [swyx]: https://www.swyx.io/learn-in-public/
 [1]: https://fb.watch/9P1cHyeIXJ/
 [2]: https://youtu.be/LN8EE5JxSGQ?t=86
