@@ -20,9 +20,8 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 # Notes to my future self V3, 
 ## [_public edition_][swyx] by [Marc J. <span style="color:darkgreen;">Green</span>berg](mailto:marc@codemarc.net) (marc@codemarc.net)
 
-NTMFS is esentially a blog. As once explained by the architect in the [matrix reloaded][2] this is not the first version of NTMFS.
+NTMFS is esentially a blog. As once explained by the architect in the [matrix reloaded][2] this is not the first version of NTMFS.  
 
-<br/>
 
 ### [Robot Monkey Butler][1]
 
@@ -44,6 +43,7 @@ This time It will take on a presentation wiki flavor where each topic can be tho
 
 
 ---
+
 <style scoped>
 h1 {font-size:18pt;}
 p {font-size:14pt;}
