@@ -8,26 +8,30 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 ---
 <style>
-  h1 {font-size:28pt;}
-  h2 {font-size:20pt;}  
-  h3 {font-size:18pt;}
-  
   section {
    font-family: 'Roboto', 'Segoe UI', 'Liberation Sans', 'Helvetica', 'Arial', sans-serif;}
-  p,footer {font-size:18pt;}
+  h1 {font-size:26pt;}
+  h2 {font-size:22pt;}  
+  h3 {font-size:20pt;}
+  h4 {font-size:18pt;}
+  p {font-size:14pt;}
+  footer {font-size:14pt;text-indent:48px}
 </style>
 
 # Notes to my future self V3, 
-## [_public edition_][swyx] by [Marc J. <span style="color:darkgreen;">Green</span>berg](mailto:marc@codemarc.net) (marc@codemarc.net)
+### [_public edition_][swyx] by [Marc J. <span style="color:darkgreen;">Green</span>berg](mailto:marc@codemarc.net) (marc@codemarc.net)
+
+<br/>
 
 NTMFS is esentially a blog. As once explained by the architect in the [matrix reloaded][2] this is not the first version of NTMFS.  
 
+<br/>
 
-### [Robot Monkey Butler][1]
+#### [Robot Monkey Butler][1]
 
 This time It will take on a presentation wiki flavor where each topic can be thought of as a presentable subject. As I document my discoveries and share them in prose, I expect to create a [learning in public][swyx] environment. I am very exciting ( ͡° ͜ʖ ͡°) to get started.
 
-<footer style="font-size:14pt;text-indent:48px">More on me <a href="#about">about marc</a></footer>
+<footer>More on me <a href="#about">about marc</a></footer>
 
 ---
 
@@ -44,13 +48,7 @@ This time It will take on a presentation wiki flavor where each topic can be tho
 
 ---
 
-<style scoped>
-h1 {font-size:18pt;}
-p {font-size:14pt;}
-</style>
-
-
-## Who is Marc (codemarc) really?  <a id='about'></a>
+### Who is Marc (codemarc) really?  <a id='about'></a>
 
 Marc is all about data - a true product architect and innovator with a 25 year career spent in the software industry starting with communications layers, communications API's data gateways, enterprise data access, enterprise integration, enterprise etl product development, enterprise esb design and development, data marts (smart mart), complex event processing platforms, date quality, data cleansing, master data management, big data, hadoop, the data lake and FINALLY the next big thing to be built, the ULTIMATE data mesh. Marc is a [T-shaped person][3], a very wide ---T---, though some who have worked with him describe it as TT or TTT or TTTT. Marc is a very senior architect and engineer.
 
@@ -61,10 +59,6 @@ Marc sees problems that other people don't, and that's where the value comes in.
 Marc can lead from above, below, and from left or right to accomplish whatever needs to be done. 
 
 ---
-<style scoped>
-h1 {font-size:18pt;}
-p {font-size:14pt;}
-</style>
 
 He has been known to work across many teams and with entirely different parts of the company. And as part of that interaction, he shows great empathy for others and some humility about where they're at. If Marc's manager goes on a three-month vacation, he can pick up that role without difficulty and lead the team until the manager's back (or replaced).
 
