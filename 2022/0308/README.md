@@ -1,0 +1,33 @@
+# Tue Mar 8, 2021
+
+#### [n2mfs](../../README.md) 
+
+## Cryptocurrency
+
+Today was an interesting day. Today I found/stumbled upon/grokked:
+
+1. [Network Chuck][chuck]
+1. [Coinbase][coin]
+1. [Solana][sol], [quote][solq]
+1. [Phantom Wallet][phantom]
+1. [Web 3.0][web3]
+
+Of course this was all stemed by the article [you need to create a Cryptocurrency RIGHT NOW!! (Solana token)][crypto]. From this I spent a few
+hours and followed chuck down the crypto rabbit hole. 
+
+The result is the new cryptocurrency [cmarc], where I minted 1 billion 
+codemarcs today. While this is a for fun project, I was able to [grok] many of the 
+important concepts around cryptocurrency tokens. 
+
+
+<!-- REFERENCES -->
+
+[chuck]: https://networkchuck.com/
+[crypto]: https://www.youtube.com/watch?v=befUVytFC80
+[coin]: https://www.coinbase.com
+[sol]:   https://solana.com/community?gclid=Cj0KCQiAmpyRBhC-ARIsABs2EApbwLfXOMg9u6NkQkuTvJ_-feKAuXfcssISWCf5Up-AcwIo5FIMRUQaAqyLEALw_wcB
+[solq]: https://www.coinbase.com/price/solana
+[phantom]: https://www.solana.news/post/how-to-connect-phantom-wallet-to-solana-blockchain
+[web3]: https://www.cryptostudio.com/crypto-abc/web3/?utm_term=web%203.0&utm_campaign=Search+-+EN+-+Web3&utm_source=adwords&utm_medium=ppc&hsa_acc=5931252456&hsa_cam=16415421262&hsa_grp=133907696356&hsa_ad=584893996972&hsa_src=g&hsa_tgt=kwd-296468071419&hsa_kw=web%203.0&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAr_qGlGclBCC9GGNYI7m3cmgZh51X7ZBZkRO0iLhi5hRQzmxMjgSk4aAvdcEALw_wcB
+[cmarc ]:https://solscan.io/token/AnjuLVbYvrhZZSU9Eiqj4d7TdYEmHJRuqdes8Cn7PfS9
+[grok]:https://en.wikipedia.org/wiki/Grok
