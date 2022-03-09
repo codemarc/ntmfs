@@ -1,5 +1,12 @@
 # [Wed Mar 9, 2021](../../README.md) 
 
+## Health
+
+Recently my doctor insisted that I start taking omega-3 fatty acids. A quick [google search](https://www.google.com/search?q=omega+3+acid+benefits) reveals 
+so many articles touting the benefits of omega-3 fatty acids, I wonder why I didnt start earlier. Any time will tell if this works for me and I will share in this space.
+
+---
+
 ## Infrastructure as Code
 
 Infrastructure as Code (IaC) is the management of infrastructure (networks, virtual machines, load balancers, and connection topology) in a descriptive model, using a version control same versioning as the Dev team uses for source code.
@@ -29,7 +36,7 @@ by [Bryan Krausen](https://www.linkedin.com/in/btkrausen/) and [Gabe Maentz](htt
 
 #### Outline / Resources
 
-##### 1.Course Introduction  
+##### 1. Course Introduction  
   
 ##### 2. Understand Infrastructure as Code (IaC) Concepts  
 
@@ -37,16 +44,18 @@ by [Bryan Krausen](https://www.linkedin.com/in/btkrausen/) and [Gabe Maentz](htt
 * [Official Terraform Site](https://www.terraform.io/)
 * [AWS CloudFormation Site](https://aws.amazon.com/cloudformation/)
 * [Azure Resource Manager (ARM) Overview](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
-* [Google Cloud Deployment Manager]()
+* [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/docs)
 * [Pulumi Website](https://www.pulumi.com/)
 * [Infrastructure as Code in a Private or Public Cloud](https://www.hashicorp.com/blog/infrastructure-as-code-in-a-private-or-public-cloud)
 * [Tutorial - Introduction to Infrastructure as Code with Terraform](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code)
 * [1a-What is IaC.pdf](../../topics/terraform/1a-What%2Bis%2BIaC.pdf)
 
-
 ##### 2.3 Benefits of Infrastructure as Code
+* [Setting Environment Variables for Authentication](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
+* [Terraform Use Cases - Multi-Cloud Deployment](https://www.terraform.io/intro/use-cases#multi-cloud-deployment)
+* [1b-Benefits of IaC.pdf](../../topics/terraform/1b-Benefits%2Bof%2BIaC.pdf)
 
-
+##### 3. Understand Terraform's purpose (vs other IaC)
 
 
 <!-- REFERENCES -->
