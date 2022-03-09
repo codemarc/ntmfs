@@ -41,7 +41,7 @@ Checkout the <a href="#tools">Tools we use</a>
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-|     |     | [01]| 02  | 03  | 04  | 05  |
+|     |     | 01  | 02  | 03  | 04  | 05  |
 | 06  | 07  | [08]| [09]| 10  | 11  | 12  |
 | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
 | 20  | 21  | 22  | 23  | 24  | 25  | 26  |
@@ -49,9 +49,8 @@ Checkout the <a href="#tools">Tools we use</a>
 
 <!-- REFERENCES -->
 
-[01]: [2022/0301/README.md]
-[08]: [2022/0308/README.md]
-[09]: [2022/0309/README.md]
+[08]: 2022/0308/README.md
+[09]: 2022/0309/README.md
 
 ---
 

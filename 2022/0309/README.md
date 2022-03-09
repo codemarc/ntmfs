@@ -1,6 +1,4 @@
-# Wed Mar 9, 2021
-
-#### [n2mfs](../../README.md) 
+# [Wed Mar 9, 2021](../../README.md) 
 
 ## Infrastructure as Code
 
@@ -14,11 +12,10 @@ Each public cloud has defined a way to script resource management
 
 Additionally [Hashicorp] [Terraform] is an open-source tool for provisioning and managing cloud infrastructure.
 
-Terraform is the tool that aggrigates IaC in front of a public cloud native solution. This interests me as it is the implementation of the adapter pattern that I have been perpetuating for years. Today I decided is time to revisit terraform. 
+Terraform is the tool that aggrigates IaC in front of a public cloud native solution. This interests me as it is the implementation of the adapter pattern that I have been perpetuating for years. Today I decided is time to revisit terraform.  
 
-<br/>
-
-### HashiCorp Certified: Terraform Associate - Hands-On Labs
+---
+## HashiCorp Certified: Terraform Associate - Hands-On Labs
 So today I will start the Udemy course;  
 
 Master Terraform by taking a Hands-On Approach with 70+ AWS-based labs that follow the Terraform Associate objectives
@@ -26,13 +23,31 @@ Master Terraform by taking a Hands-On Approach with 70+ AWS-based labs that foll
 ![Attachment course image](https://img-c.udemycdn.com/course/200_H/4254508_54c8_3.jpg)  
 ★★★★★ 4.72 (63 ratings)
 
-by [Bryan Krausen](https://www.linkedin.com/in/btkrausen/)  
-Principal Solutions Consultant - AWS & HashiCorp
+by [Bryan Krausen](https://www.linkedin.com/in/btkrausen/) and [Gabe Maentz](https://www.linkedin.com/in/gabe-maentz/)  
 
-and [Gabe Maentz  ](https://www.linkedin.com/in/gabe-maentz/)  
-Solution Architecture
+---
 
+#### Outline / Resources
+
+##### 1.Course Introduction  
+  
+##### 2. Understand Infrastructure as Code (IaC) Concepts  
+
+##### 2.2 What is Infrastructure as Code
 * [Official Terraform Site](https://www.terraform.io/)
+* [AWS CloudFormation Site](https://aws.amazon.com/cloudformation/)
+* [Azure Resource Manager (ARM) Overview](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+* [Google Cloud Deployment Manager]()
+* [Pulumi Website](https://www.pulumi.com/)
+* [Infrastructure as Code in a Private or Public Cloud](https://www.hashicorp.com/blog/infrastructure-as-code-in-a-private-or-public-cloud)
+* [Tutorial - Introduction to Infrastructure as Code with Terraform](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code)
+* [1a-What is IaC.pdf](../../topics/terraform/1a-What%2Bis%2BIaC.pdf)
+
+
+##### 2.3 Benefits of Infrastructure as Code
+
+
+
 
 <!-- REFERENCES -->
 [Azure Resource Manager]: https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview

@@ -1,6 +1,4 @@
-# Tue Mar 8, 2021
-
-#### [n2mfs](../../README.md) 
+# [Tue Mar 8, 2021](../../README.md) 
 
 ## Cryptocurrency
 
