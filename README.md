@@ -54,12 +54,11 @@ Checkout the <a href="#tools">Tools we use</a>
 ##### 3/10 [IaC - Terraform pt2][10]
 
 
-
 <!-- REFERENCES -->
 
-[08]: 2022/0308/README.md
-[09]: 2022/0309/README.md
-[10]: 2022/0310/README.md
+[08]: 2022/03Mar/08.md
+[09]: 2022/03Mar/09.md
+[10]: 2022/03Mar/10.md
 
 ---
 
