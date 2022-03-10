@@ -14,6 +14,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
   h2 {font-size:22pt;}  
   h3 {font-size:20pt;}
   h4 {font-size:16pt;}
+  h5 {font-size:10pt;}
   p,li {font-size:14pt;}
   footer {font-size:14pt;text-indent:48px}
 </style>
@@ -41,16 +42,24 @@ Checkout the <a href="#tools">Tools we use</a>
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-|     |     | 01  | 02  | 03  | 04  | 05  |
-| 06  | 07  | [08]| [09]| 10  | 11  | 12  |
-| 13  | 14  | 15  | 16  | 17  | 18  | 19  |
-| 20  | 21  | 22  | 23  | 24  | 25  | 26  |
-| 27  | 28  | 29  | 30  | 31  |     |     |
+|     |     | 01  | 02  | 03   | 04  | 05  |
+| 06  | 07  | [08]| [09]| [10] | 11  | 12  |
+| 13  | 14  | 15  | 16  | 17   | 18  | 19  |
+| 20  | 21  | 22  | 23  | 24   | 25  | 26  |
+| 27  | 28  | 29  | 30  | 31   |     |     |
+
+
+##### 3/8  [Cryptocurrency][08]
+##### 3/9  [IaC - Terraform pt1][09]
+##### 3/10 [IaC - Terraform pt2][10]
+
+
 
 <!-- REFERENCES -->
 
 [08]: 2022/0308/README.md
 [09]: 2022/0309/README.md
+[10]: 2022/0310/README.md
 
 ---
 

@@ -34,13 +34,9 @@ by [Bryan Krausen](https://www.linkedin.com/in/btkrausen/) and [Gabe Maentz](htt
 
 ---
 
-#### Outline / Resources
+### Resources Day One
 
-##### 1. Course Introduction  
-  
-##### 2. Understand Infrastructure as Code (IaC) Concepts  
-
-##### 2.2 What is Infrastructure as Code
+* [Terraform Mind Map](../../topics/terraform/Mindmap%2B-%2BTerraform%2BHands-On%2BLabs%2BCourse.pdf)
 * [Official Terraform Site](https://www.terraform.io/)
 * [AWS CloudFormation Site](https://aws.amazon.com/cloudformation/)
 * [Azure Resource Manager (ARM) Overview](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
@@ -49,13 +45,15 @@ by [Bryan Krausen](https://www.linkedin.com/in/btkrausen/) and [Gabe Maentz](htt
 * [Infrastructure as Code in a Private or Public Cloud](https://www.hashicorp.com/blog/infrastructure-as-code-in-a-private-or-public-cloud)
 * [Tutorial - Introduction to Infrastructure as Code with Terraform](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code)
 * [1a-What is IaC.pdf](../../topics/terraform/1a-What%2Bis%2BIaC.pdf)
-
-##### 2.3 Benefits of Infrastructure as Code
 * [Setting Environment Variables for Authentication](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
 * [Terraform Use Cases - Multi-Cloud Deployment](https://www.terraform.io/intro/use-cases#multi-cloud-deployment)
 * [1b-Benefits of IaC.pdf](../../topics/terraform/1b-Benefits%2Bof%2BIaC.pdf)
+* [Terraform Provider - Domino's Pizza](https://github.com/ndmckinley/terraform-provider-dominos)
+* [Terraform Provider - Spotify](https://github.com/conradludgate/terraform-provider-spotify)
+* [2a-Terraform Purpose.pdf](../../topics/terraform/2a-Terraform%2BPurpose.pdf)  
 
-##### 3. Understand Terraform's purpose (vs other IaC)
+---
+&raquo; [on to 03/10/22 day two](../20220310/README.md)
 
 
 <!-- REFERENCES -->
