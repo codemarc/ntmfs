@@ -1,2 +1,3 @@
 .DS_Store
-topics/terraform/work/.terraform
+.terraform*
+terraform.tfstate*
