@@ -24,73 +24,39 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 <br/>
 
-NTMFS is esentially a blog. As once explained by the architect in the [matrix reloaded][2] this is not the first version of NTMFS.  
+NTMFS is esentially a blog. As once explained by the architect in the [matrix reloaded][redux] this is not the first version of NTMFS.  
 
-#### [Robot Monkey Butler][1]
+#### [Robot Monkey Butler][rmb]
 
 This time It will take on a presentation wiki flavor where each topic can be thought of as a presentable subject. As I document my discoveries and share them in prose, I expect to create a [learning in public][swyx] environment. I am very exciting ( ͡° ͜ʖ ͡°) to get started.
 
-<br/><br/><br/><br/><br/><br/>
+Additionally this work is essentually about building evolutionary archictural thought framing about technoligical development. It is expective to often morph and ocasionally pivit and we itterate and evolve our understanding of things
 
-Checkout the <a href="#tools">Tools we use</a>
+<footer>See: the <a href="#tools">tools we use</a></footer>
 
-<footer>More on me <a href="#about">about marc</a></footer>
+<!-- References -->
+[swyx]: https://www.swyx.io/learn-in-public/
+[rmb]: https://fb.watch/9P1cHyeIXJ/
+[redux]: https://youtu.be/LN8EE5JxSGQ?t=86
 
 ---
 
-# 2022 March
+# April 2022
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-|     |     | 01  | 02  | 03  | 04   | 05  |
-| 06  | 07  | [08]| [09]| [10]| [11] | 12  |
-| 13  | [14]| 15  | 16  | 17  | 18   | 19  |
-| 20  | 21  | 22  | 23  | 24  | 25   | 26  |
-| 27  | 28  | 29  | 30  | 31  |      |     |
+|     |     |     |     |     | 01  | 02  |
+| 03  | 04  | 05  | 06  | 07  | 08  | 09  |
+| 10  | 11  | 12  | [13]| 14  | 15  | 16  |
+| 17  | 18  | 19  | 20  | 21  | 22  | 23  |
+| 24  | 25  | 26  | 27  | 28  | 29  | 30  |
+
+  
+##### 3/13 [restart/reboot/redux][13]
 
 
-##### 3/8  [Cryptocurrency][08]
-##### 3/9  [IaC - Terraform pt1][09]
-##### 3/10 [IaC - Terraform pt2][10], js animation 
-##### 3/11 [IaC - Terraform pt2 - Recovery][11]
-##### 3/14 [Pie Day][14]
-
-
-<!-- REFERENCES -->
-
-[08]: 2022/03Mar/08.md
-[09]: 2022/03Mar/09.md
-[10]: 2022/03Mar/10.md
-[11]: 2022/03Mar/11.md
-[14]: 2022/03Mar/14.md
-
----
-
-### Who is Marc (codemarc) really?  <a id='about'></a>
-
-Marc is all about data - a true product architect and innovator with a 25 year career spent in the software industry starting with communications layers, communications API's data gateways, enterprise data access, enterprise integration, enterprise etl product development, enterprise esb design and development, data marts (smart mart), complex event processing platforms, date quality, data cleansing, master data management, big data, hadoop, the data lake and FINALLY the next big thing to be built, the ULTIMATE data mesh. Marc is a [T-shaped person][3], a very wide ---T---, though some who have worked with him describe it as TT or TTT or TTTT. Marc is a very senior architect and engineer.
-
-He leads projects. He coordinates work. He takes on difficult technical tasks. His enthusiasm for solving problems with technology is infections and irresistible. He doesn't need to be told what to do. He dives into an unknown set of problems and brings order to chaos and is self-motivated to do so.
-
-Marc sees problems that other people don't, and that's where the value comes in. Without engineers who can do that repeatedly, the company has fewer winning products, and way more problems. Marc can rally other engineers to support and unblock projects with or without the support of management.
-
-Marc can lead from above, below, and from left or right to accomplish whatever needs to be done. 
-
----
-
-He has been known to work across many teams and with entirely different parts of the company. And as part of that interaction, he shows great empathy for others and some humility about where they're at. If Marc's manager goes on a three-month vacation, he can pick up that role without difficulty and lead the team until the manager's back (or replaced).
-
-Because of the reputation that Marc builds within an organization, people want to engage. He leads by example and when he leaves, there is a morale hit, a wanting for more of the environment where team members learn and grow. Losing him is a cost.
-
-So, to sum it up, Marc is a master composer, a conductor who can orchestrate the symphony, and sometimes, just another player in the band.
-
-You've got someone who doesn't require any management, who seeks out and solves problems you didn't know you had. A force multiplier that motivates other folks to join in and unblock the work. Someone who is humble and empathic. Marc can pinch hit for every other role if someone's gone. Marc has been lucky enough to both get the skills that he has, and to be in jobs that let him build and use those skills.
-
-If your company is looking for someone like this, you're looking for Marc. And he can't wait to work with you. Thank you in advance for your consideration.
-
-Kind regards, <font style="font-family:Brush Script MT;font-size:32pt;margin-left:84px">Marc J. Greenberg</font>
-
-marc@codemarc.net | 516-313-4826
+<!-- References -->
+[13]: #20220413
 
 ---
 
@@ -100,6 +66,8 @@ marc@codemarc.net | 516-313-4826
 - [Mermaid][t4]- Generation of diagrams and flowcharts from text in a similar manner as markdown.
 - [Visual Studio Code][t0] with plugins: [Marp for VS Code][t2], [Mermaid+Draw.io][t3]
 
+<footer><b>Note: </b>./.vscode/extensions.json lists recommended plugins for NTMFS
+
 <!-- References -->
 [t0]: https://code.visualstudio.com/
 [t1]: https://marp.app/
@@ -107,23 +75,63 @@ marc@codemarc.net | 516-313-4826
 [t3]: https://marketplace.visualstudio.com/items?itemName=nopeslide.vscode-drawio-plugin-mermaid
 [t4]: https://unpkg.com/mermaid@0.5.2/exdoc/index.html
 
-[swyx]: https://www.swyx.io/learn-in-public/
-[1]: https://fb.watch/9P1cHyeIXJ/
-[2]: https://youtu.be/LN8EE5JxSGQ?t=86
-[3]: https://www.forbes.com/sites/lisabodell/2020/08/28/futurethink-forecasts-t-shaped-teams-are-the-future-of-work/?sh=2b816eba5fde
+---
+<style>
+h4 {font-size:11pt;font-style:italic;margin-top:-3px}
+p {font-size:11pt;margin-bottom:12px;}
+</style>
 
 
+### <a id="20220413">Restart / Reboot / Redux </a>
+#### Wed April 13th, 2022 09:00am ET
+
+Its been a while since I posted an NTMFS entry and I am not sure why that is. Maybe because I am busy with my new job mapping out my onboarding journey at [Par Tech][pt1]. As a newbie navigating the waters of a new organization I have decided keep a completly open mind about all things **par** and **tech** and I atempt to join the party. 
+
+There is so much I have learned in the last week, some of which is recorded my writing journal, some in slack, some from confluence and some from direct conversations with specific individuals that were listed in my meet and learn document supplied out CTO. Perhaps I need to say my role is the chief of staff in the office of the CTO (Octo), as such it make sense to reach out and actually meet the staff. 
 
 
-<!-- ---
-## Older <a id="older"/>
+Before you ask, of course I created my chrome extension holding the links I discovered. This one is called parlinks, and you can contact me at marc_greenberg@partech.com to request access.
 
-- [Terraform](Hashicorp/terraform.md)
-- React
-- CaaS
-- K8s
-- K3s
-- f5
-- Analytics
-- Observability
+![width:640px](./img/parlinks.png)
+
+<!-- References -->
+[pt1]: https://www.partech.com/
+
+---
+<style scoped>
+
+h4 {font-size:11pt;font-style:italic;margin-top:-3px}
+p {font-size:11pt;margin-bottom:12px;}
+ol,li {font-size:11pt;}
+hr {margin-top:40px}
+</style>
+
+### Branching Strategy
+#### Wed April 13th, 2022 12:00 ET
+
+Sat thru an interesting conversation on git branching strategy. Sad to see the same topics that have been under discussion over the past 5 years are still under discussion. Good conclusion reached today. 
+
+#### Action Items:  
+
+1. Switch to a pure trunk based branching strategy.
+2. Remove wildcard package version references. (maybe enforce this by policy).
+3. Document the actual flow and policies
+
+<hr/>
+
+### Building Punchh Server Redux
+#### Wed April 13th, 2022 02:00 PM ET
+
+Even though I have already built the Punchh server once, I am ready to try this again. This time I am specifically looking at tools and tech choices.
+
+<!-- 
+Guarish Sharma was kind enought to share this 
+
+These items are from [punchdev confluence][pc1].
+
+* From [Day 1 Checklist](https://punchhdev.atlassian.net/wiki/spaces/ENGINEERIN/pages/106627582/Day+1+Checklist)
  -->
+
+<!-- References -->
+[pconf]: https://punchhdev.atlassian.net/wiki/spaces/
+[pc1]: https://punchhdev.atlassian.net/wiki/spaces/ENGINEERIN/pages/25854055/Engineering+On-boarding+work+in+progress
