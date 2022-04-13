@@ -24,13 +24,13 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 <br/>
 
-NTMFS is esentially a blog. As once explained by the architect in the [matrix reloaded][redux] this is not the first version of NTMFS.  
+NTMFS is essentially a blog. As once explained by the architect in the [matrix reloaded][redux] this is not the first version of NTMFS.  
 
 #### [Robot Monkey Butler][rmb]
 
 This time It will take on a presentation wiki flavor where each topic can be thought of as a presentable subject. As I document my discoveries and share them in prose, I expect to create a [learning in public][swyx] environment. I am very exciting ( ͡° ͜ʖ ͡°) to get started.
 
-Additionally this work is essentually about building evolutionary archictural thought framing about technoligical development. It is expective to often morph and ocasionally pivit and we itterate and evolve our understanding of things
+Additionally this work is essentially about building evolutionary architectural thought framing around technological developments. It is expected to often morph and occasionally pivot and we iterate and evolve our understanding of things
 
 <footer>See: the <a href="#tools">tools we use</a></footer>
 
@@ -85,7 +85,7 @@ p {font-size:11pt;margin-bottom:12px;}
 ### <a id="20220413">Restart / Reboot / Redux </a>
 #### Wed April 13th, 2022 09:00am ET
 
-Its been a while since I posted an NTMFS entry and I am not sure why that is. Maybe because I am busy with my new job mapping out my onboarding journey at [Par Tech][pt1]. As a newbie navigating the waters of a new organization I have decided keep a completly open mind about all things **par** and **tech** and I atempt to join the party. 
+Its been a while since I posted an NTMFS entry and I am not sure why that is. Maybe because I am busy with my new job mapping out my onboarding journey at [Par Tech][pt1]. As a newbie navigating the waters of a new organization I have decided keep a completely open mind about all things **par** and **tech** and I attempt to join the party. 
 
 There is so much I have learned in the last week, some of which is recorded my writing journal, some in slack, some from confluence and some from direct conversations with specific individuals that were listed in my meet and learn document supplied out CTO. Perhaps I need to say my role is the chief of staff in the office of the CTO (Octo), as such it make sense to reach out and actually meet the staff. 
 
