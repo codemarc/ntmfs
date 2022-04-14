@@ -98,31 +98,66 @@ Before you ask, of course I created my chrome extension holding the links I disc
 [pt1]: https://www.partech.com/
 
 ---
-<style scoped>
 
-h4 {font-size:11pt;font-style:italic;margin-top:-3px}
-p {font-size:11pt;margin-bottom:12px;}
-ol,li {font-size:11pt;}
-hr {margin-top:40px}
+<style scoped>
+  h4 {font-size:11pt;font-style:italic;margin-top:-3px}
+  p {font-size:11pt;margin-bottom:12px;}
+  ol,li {font-size:11pt;}
+  hr {margin-top:40px}
 </style>
 
 ### Branching Strategy
 #### Wed April 13th, 2022 12:00 ET
 
-Sat thru an interesting conversation on git branching strategy. Sad to see the same topics that have been under discussion over the past 5 years are still under discussion. Good conclusion reached today. 
+Sat thru an interesting conversation on git branching strategy. It is sad to see the same topics that have been under discussion in every software company over the past 5 years are still under discussion. Good conclusion reached today. 
 
 #### Action Items:  
 
 1. Switch to a pure trunk based branching strategy.
 2. Remove wildcard package version references. (maybe enforce this by policy).
-3. Document the actual flow and policies
+3. Document the actual flow and policies.
 
 <hr/>
 
-### Building Punchh Server Redux
+### Cheers Governor 
 #### Wed April 13th, 2022 02:00 PM ET
 
+A few days ago Steve and I began a discussion on the concept of governance, guardrails and guiderails with respect to major technology choices (software, frameworks, databases, etc) across Par.
+
+![width:300px](./img/ggg.png)
+
+---
+### Cheers Governor (continued) 
+#### Wed April 13th, 2022 02:00 PM ET
+
+I have been spelunking thru the punchdev instance of confluence and I found a name associated with lots of architectural content: Who is  andrew berry?
+
+Well it turns out that andrew was an architect from Australia, working with Guarish Sharma who wrote a good number of process documentation. 
+
+* [Preferred Patterns and Platforms][P1]
+* [Architecture Pattern Glossary][P2]
+* [Software Architecture][P3]
+* [Platform Architecture][P4]
+* [Integration Architecture][P5]
+
+
+<!-- References -->
+[P1]: https://punchhdev.atlassian.net/wiki/spaces/ENGINEERIN/pages/91914332/Preferred+Patterns+and+Platforms
+[P2]: https://punchhdev.atlassian.net/wiki/spaces/ENGINEERIN/pages/80838716/Architecture+Pattern+Glossary
+[P3]: https://punchhdev.atlassian.net/wiki/spaces/ENGINEERIN/pages/58622860/Software+Architecture
+[P4]: https://punchhdev.atlassian.net/wiki/spaces/ENGINEERIN/pages/58589889/Platform+Architecture
+[P5]: https://punchhdev.atlassian.net/wiki/spaces/ENGINEERIN/pages/59179024/Integration+Architecture
+
+<!-- ---
+
+### Building Punchh Server Redux
+#### Wed April 13th, 2022 04:00 PM ET
+
 Even though I have already built the Punchh server once, I am ready to try this again. This time I am specifically looking at tools and tech choices.
+
+Pages to consider:
+* [How to get access to Tools](https://punchhdev.atlassian.net/wiki/spaces/DEVOPS/pages/1671234973/How+to+get+access+to+Tools)
+ -->
 
 <!-- 
 Guarish Sharma was kind enought to share this 
