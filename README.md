@@ -96,6 +96,19 @@ It is been a month since I started at Par Tech. and I now have put a little rubb
 
 * [Move the Source System Of Record agenda forward][3]
 
+---
+###  [Par-links v0.0.6 - Quicker Turnarounds][5]
+#### Mon May 02nd, 2022 09:00am ET
+
+As of v0.0.6 of Par Links (My chrome extension) I have enabled a split scheme on where menu data comes from. There are now 2 github projects that comprise par-links.
+
+https://github.com/par-brink/par-links contains the source build and publishing content of the project and the default menu data for this version. https://github.com/codemarc/par-links-data.git contains the updates to the menu in between releases. To load the most recent updates you press the refresh icon and the file https://github.com/codemarc/par-links-data/blob/master/default.json will be loaded as the menu data.
+![width:340px](./img/RefreshData.png)
+
+You can tell it is loaded by the plus + indicator following the version number. Press the screen icon to revert to the release level ment.
+
+![width:340px](./img/RevertData.png)
+
 <!-- References -->
 [1]: https://partech-my.sharepoint.com/:b:/p/marc_greenberg/ERUl2KnfIo1Or_NnjLyF0QAB53mTcIVS5RdPiEKJD8vABg?e=A9gxPm
 
@@ -104,3 +117,5 @@ It is been a month since I started at Par Tech. and I now have put a little rubb
 [3]: repositories.md
 
 [4]: https://partech-my.sharepoint.com/:p:/p/marc_greenberg/Efgo2gaQQjVKrjpDzAbjd6gB8UAU9q-paP4O9T3oyyIXOw?e=0tMlV2
+
+[5]: https://chrome.google.com/webstore/detail/parlinks/dcdlniniklogobinjapppmaeafneiddl
