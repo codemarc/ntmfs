@@ -43,19 +43,21 @@ Additionally this work is essentially about building evolutionary architectural 
 
 # May 2022
 
-| Sun | Mon  | Tue | Wed | Thu | Fri | Sat |
-| --- | ---  | --- | --- | --- | --- | --- |
-| 01  | [02] | 03  | 04  | 05  | 06  | 07  |
-| 08  | 09   | 10  | 11  | 12  | 13  | 14  |
-| 15  | 16   | 17  | 18  | 19  | 20  | 21  |
-| 22  | 23   | 24  | 25  | 26  | 27  | 28  |
-| 29  | 30   | 31  |     |     |     |     |
+| Sun | Mon  | Tue  | Wed  | Thu | Fri | Sat |
+| --- | ---  | ---  | ---  | --- | --- | --- |
+| 01  | [02] | [03] | [04] | 05  | 06  | 07  |
+| 08  | 09   | 10   | 11   | 12  | 13  | 14  |
+| 15  | 16   | 17   | 18   | 19  | 20  | 21  |
+| 22  | 23   | 24   | 25   | 26  | 27  | 28  |
+| 29  | 30   | 31   |      |     |     |     |
 
 
-##### 5/02 [Month 2][02]ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Go back to April](./2022/04Apr/README.md)
+##### 5/02 [my month 2][02]ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Go back to April](./2022/04Apr/README.md)
 
 <!-- References -->
-[02]: #2022050
+[02]: #20220502
+[03]: #20220503
+[04]: #20220504
 
 ---
 
@@ -105,17 +107,55 @@ As of v0.0.6 of Par Links (My chrome extension) I have enabled a split scheme on
 https://github.com/par-brink/par-links contains the source build and publishing content of the project and the default menu data for this version. https://github.com/codemarc/par-links-data.git contains the updates to the menu in between releases. To load the most recent updates you press the refresh icon and the file https://github.com/codemarc/par-links-data/blob/master/default.json will be loaded as the menu data.
 ![width:340px](./img/RefreshData.png)
 
-You can tell it is loaded by the plus + indicator following the version number. Press the screen icon to revert to the release level ment.
+You can tell it is loaded by the plus + indicator following the version number. Press the screen icon to revert to the release level meant.
 
 ![width:340px](./img/RevertData.png)
 
+---
+
+### <a id="20220503">Which way to the Lab?</a>
+#### Tue May 03rd, 2022 10:00am ET
+
+
+Ever since I first heard the scrum, pig and chicken story I have always wanted to open a breakfast joint named Bacon and Eggs (scrumbut intended). The original story goes like this...  
+<br/>
+
+![width:600][6]  
+
+
+<br/><br/>As a brink integrator, I take it for granted that everyone has access to real data. In reality, its not true. Developers here setup their private environments and do not really share. They generate faux data to make sure the system is working. I wonder if I can use my integrator lab environment. And can I set it up to be used as a research / demo platform for UCP?
+
+---
+<style scoped>
+  h5 {margin-left:280px;margin-top:-12px}
+</style>
+
+### <a id="20220504">Bacon and Eggs</a>
+
+#### Wed May 04th, 2022 7:00am ET
+
+
+![width:460px](./img/BaconAndEggs.png)
+##### Another fine ucp venue
+
+
+#### First thoughts...
+
+* As a thinker I need an expermental environment where I can flush out answers to proposed designs.
+* will need a brink pos, data central, and punchh loyalty account setup. 
+
+
+
+
 <!-- References -->
-[1]: https://partech-my.sharepoint.com/:b:/p/marc_greenberg/ERUl2KnfIo1Or_NnjLyF0QAB53mTcIVS5RdPiEKJD8vABg?e=A9gxPm
+[6]: https://i0.wp.com/helpingimprove.com/wp-content/uploads/2021/01/agile-safari-pig-and-chicken-part1-1024x398-1.png?resize=625%2C244&ssl=1
 
-[2]: https://partech-my.sharepoint.com/:x:/r/personal/steven_berkovitz_partech_com/_layouts/15/Doc.aspx?sourcedoc=%7BEECA7908-905F-40B9-9158-941B04D59787%7D&file=Onboarding%20Plan%20-%20Marc%20Greenberg.xlsx&action=default&mobileredirect=true
-
-[3]: repositories.md
+[5]: https://chrome.google.com/webstore/detail/parlinks/dcdlniniklogobinjapppmaeafneiddl
 
 [4]: https://partech-my.sharepoint.com/:p:/p/marc_greenberg/Efgo2gaQQjVKrjpDzAbjd6gB8UAU9q-paP4O9T3oyyIXOw?e=0tMlV2
 
-[5]: https://chrome.google.com/webstore/detail/parlinks/dcdlniniklogobinjapppmaeafneiddl
+[3]: repositories.md
+
+[2]: https://partech-my.sharepoint.com/:x:/r/personal/steven_berkovitz_partech_com/_layouts/15/Doc.aspx?sourcedoc=%7BEECA7908-905F-40B9-9158-941B04D59787%7D&file=Onboarding%20Plan%20-%20Marc%20Greenberg.xlsx&action=default&mobileredirect=true
+
+[1]: https://partech-my.sharepoint.com/:b:/p/marc_greenberg/ERUl2KnfIo1Or_NnjLyF0QAB53mTcIVS5RdPiEKJD8vABg?e=A9gxPm
