@@ -43,21 +43,25 @@ Additionally this work is essentially about building evolutionary architectural 
 
 # May 2022
 
-| Sun | Mon  | Tue  | Wed  | Thu | Fri | Sat |
-| --- | ---  | ---  | ---  | --- | --- | --- |
-| 01  | [02] | [03] | [04] | 05  | 06  | 07  |
-| 08  | 09   | 10   | 11   | 12  | 13  | 14  |
-| 15  | 16   | 17   | 18   | 19  | 20  | 21  |
-| 22  | 23   | 24   | 25   | 26  | 27  | 28  |
-| 29  | 30   | 31   |      |     |     |     |
+| Sun | Mon  | Tue  | Wed  | Thu  | Fri | Sat |
+| --- | ---  | ---  | ---  | ---  | --- | --- |
+| 01  | [02] | [03] | [04] | [05] | 06  | 07  |
+| 08  | 09   | 10   | 11   | 12   | 13  | 14  |
+| 15  | 16   | 17   | 18   | 19   | 20  | 21  |
+| 22  | 23   | 24   | 25   | 26   | 27  | 28  |
+| 29  | 30   | 31   |      |      |     |     |
 
 
-##### 5/02 [my month 2][02]ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Go back to April](./2022/04Apr/README.md)
+##### 5/02 [my month 2][02]
+##### 5/03 [pig and chicken][03]
+##### 5/04 [bacon and eggs][04]
+##### 5/05 [rome realized][05]ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Go back to April](./2022/04Apr/README.md)
 
 <!-- References -->
 [02]: #20220502
 [03]: #20220503
 [04]: #20220504
+[05]: #20220505
 
 ---
 
@@ -100,7 +104,7 @@ It is been a month since I started at Par Tech. and I now have put a little rubb
 
 ---
 ###  [Par-links v0.0.6 - Quicker Turnarounds][5]
-#### Mon May 02nd, 2022 09:00am ET
+#### Mon May 2nd, 2022 09:00am ET
 
 As of v0.0.6 of Par Links (My chrome extension) I have enabled a split scheme on where menu data comes from. There are now 2 github projects that comprise par-links.
 
@@ -114,7 +118,7 @@ You can tell it is loaded by the plus + indicator following the version number. 
 ---
 
 ### <a id="20220503">Which way to the Lab?</a>
-#### Tue May 03rd, 2022 10:00am ET
+#### Tue May 3rd, 2022 10:00am ET
 
 
 Ever since I first heard the scrum, pig and chicken story I have always wanted to open a breakfast joint named Bacon and Eggs (scrumbut intended). The original story goes like this...  
@@ -126,13 +130,14 @@ Ever since I first heard the scrum, pig and chicken story I have always wanted t
 <br/><br/>As a brink integrator, I take it for granted that everyone has access to real data. In reality, its not true. Developers here setup their private environments and do not really share. They generate faux data to make sure the system is working. I wonder if I can use my integrator lab environment. And can I set it up to be used as a research / demo platform for UCP?
 
 ---
+
 <style scoped>
   h5 {margin-left:280px;margin-top:-12px}
 </style>
 
 ### <a id="20220504">Bacon and Eggs</a>
 
-#### Wed May 04th, 2022 7:00am ET
+#### Wed May 4th, 2022 7:00am ET
 
 
 ![width:460px](./img/BaconAndEggs.png)
@@ -141,13 +146,41 @@ Ever since I first heard the scrum, pig and chicken story I have always wanted t
 
 #### First thoughts...
 
-* As a thinker I need an expermental environment where I can flush out answers to proposed designs.
+* As a thinker I need an experimental environment where I can flush out answers to proposed designs.
 * will need a brink pos, data central, and punchh loyalty account setup. 
 
+---
 
+<style scoped>
+  h6 {margin-top:24px;margin-bottom:0;font-size:16pt;}
+</style>
+
+### <a id="20220505">Team Rome</a>
+
+#### Wed May 5th, 2022 7:00am ET
+
+_There was a dream that was Rome. It shall be realized._
+
+Trust is the number one priority at Partech. The architects on team (Rome) set the standards for engineering excellence across the Par ecosystem. They work on assuring alignment between our technology and strategic business goals. This matrixed group contributes to the definition and implementation of the long-term company-wide technology roadmap focused on architecture, platform, and data design. 
+
+###### Guiding Principles
+
+* EMPOWER OTHERS
+  Mentor / Collaborate across all development and product teams. Break the Silos!
+
+* DRAW THE OWL
+  Lead and guide teams in determining the appropriate technologies, structuring of data, and workflows in support of high scale distributed systems. Figure it out, Ship It and Iterate
+
+* DON’T SETTLE
+  Partner with other Architects and stakeholders to ensure all technology solutions align with product, security, and architecture long term vision and roadmap. Win Together
+
+* BE AN OWNER
+  Ensure the successful delivery of projects from vision, through execution, and reliable, dependable, scalable, operations. 
 
 
 <!-- References -->
+
+
 [6]: https://i0.wp.com/helpingimprove.com/wp-content/uploads/2021/01/agile-safari-pig-and-chicken-part1-1024x398-1.png?resize=625%2C244&ssl=1
 
 [5]: https://chrome.google.com/webstore/detail/parlinks/dcdlniniklogobinjapppmaeafneiddl
